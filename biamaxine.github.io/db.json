@@ -1,4 +1,12 @@
 {
+  "about": {
+    "author": "Bia Maxine",
+    "title": "Dev Fullstack & UI/UX Designer",
+    "brand": ".bx",
+    "slogan": "Construindo experiências completas.",
+    "cv": "https://biamaxine.github.io/db_json/biamaxine.github.io/assets/cv.pdf"
+  },
+
   "icons": [
     {
       "id": 1,
