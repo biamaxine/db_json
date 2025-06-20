@@ -164,11 +164,8 @@
       "title": "Soluções web completas para sua marca brilhar online",
       "content": {
         "summary": "Crio websites de alto impacto técnico e visual, combinando funcionalidade robusta com design imersivo. Ideal para:",
-        "items": [
-          "Portfólios criativos com interações personalizadas",
-          "E-commerces com integração de pagamentos e gestão de estoque",
-          "Sites institucionais responsivos e otimizados para SEO\n**Inclui:** prototipagem interativa + sistema CMS personalizado + treinamento para gestão"
-        ]
+        "items":
+          "* Portfólios criativos com interações personalizadas\n* E-commerces com integração de pagamentos e gestão de estoque\n* Sites institucionais responsivos e otimizados para SEO\n\n**Inclui:** prototipagem interativa + sistema CMS personalizado + treinamento para gestão"
       }
     },
     {
@@ -176,11 +173,8 @@
       "title": "Automatize operações com tecnologia exclusiva",
       "content": {
         "summary": "Desenvolvimento de aplicações desktop e web para resolver desafios específicos do seu negócio:",
-        "items": [
-          "Programas de gestão para autônomos e PMEs",
-          "Ferramentas de produtividade com integração em nuvem",
-          "Dashboards de análise de dados em tempo real\n**Benefício chave:** redução de até 40% em tarefas operacionais repetitivas com soluções _tailor-made_"
-        ]
+        "items":
+          "* Programas de gestão para autônomos e PMEs\n* Ferramentas de produtividade com integração em nuvem\n* Dashboards de análise de dados em tempo real\n\n**Benefício chave:** redução de até 40% em tarefas operacionais repetitivas com soluções _tailor-made_"
       }
     },
     {
@@ -188,11 +182,8 @@
       "title": "UX que converte e interfaces que encantam",
       "content": {
         "summary": "Serviço completo de UI/UX Design com entrega técnica pronta para uso:",
-        "items": [
-          "Redesign de aplicativos com foco em usabilidade",
-          "Design systems escaláveis para produtos digitais",
-          "Protótipos funcionais testados com usuários reais\n**Diferencial:** implementação direta do design por mim como dev fullstack (sem retrabalhos)"
-        ]
+        "items":
+          "* Redesign de aplicativos com foco em usabilidade\n* Design systems escaláveis para produtos digitais\n* Protótipos funcionais testados com usuários reais\n\n**Diferencial:** implementação direta do design por mim como dev fullstack (sem retrabalhos)"
       }
     }
   ],
